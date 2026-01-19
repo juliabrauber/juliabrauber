@@ -26,8 +26,8 @@ Experiência com React, TypeScript, JavaScript, Angular e React Native.
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/júlia-rauber-b974a3177  
-- Email: **juliabrauber@gmail.com**
+- 📧 Email: juliabrauber@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/júlia-rauber-b974a3177
 
 ---
 
